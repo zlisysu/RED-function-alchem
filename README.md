@@ -1,5 +1,5 @@
 # RED-function-alchem
-Pre-requests: pymbar, alchemlyb
+Prerequisites: pymbar, alchemlyb
 
 This python script is used to calculate the free energy difference based on 
 RED function.
